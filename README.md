@@ -1,6 +1,14 @@
 # Document-Parser-using-Ollama-OCR
 
-## 🧾 Intelligent Document Parser using Ollama OCR
+## Document-Parser-using-Ollama-OCR
+
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![OCR](https://img.shields.io/badge/OCR-Ollama%20Vision%20OCR-blue)
+![Document Parsing](https://img.shields.io/badge/Task-Document%20Parsing-lightgrey)
+![CLI Tool](https://img.shields.io/badge/Interface-CLI-green)
+![Modular](https://img.shields.io/badge/Design-Modular-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 This project leverages **Ollama OCR** to extract structured data from input documents (PDFs, images, scanned files, etc.). It's designed to automate data extraction workflows by converting unstructured visual content into usable digital information.
 
